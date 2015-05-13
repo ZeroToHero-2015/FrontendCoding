@@ -1,6 +1,5 @@
 // TODO #2 load ngRoute module
-//var hrApp = angular.module('hrApp', []);
-var hrApp = angular.module('hrApp', ['ngRoute']);
+
 
 // TODO #3 add default route for main page
 // TODO #4 add #/numbers route and use redirectTo
